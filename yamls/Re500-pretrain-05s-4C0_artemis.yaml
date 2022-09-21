@@ -29,7 +29,7 @@ train:
   ic_loss: 1.0
   f_loss: 1.0
   xy_loss: 5.0
-  save_dir: 'Re500-FDM'
+  save_dir: 'Re500-FDM-4D'
   save_name: 'PINO-pretrain-Re500-05s-4C0_artemis.pt'
   data_iter: 4
   eqn_iter: 0
